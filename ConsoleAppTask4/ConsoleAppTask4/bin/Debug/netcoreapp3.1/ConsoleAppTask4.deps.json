@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppTask4/1.0.0": {
+        "runtime": {
+          "ConsoleAppTask4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppTask4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
